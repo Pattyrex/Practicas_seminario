@@ -14,5 +14,5 @@ Este es un portafolio personal donde muestro mis habilidades y experiencia en mi
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
-    git clone https://github.com/tuusuario/mi-proyecto.git
+    git clone https://github.com/Pattyrex/Practicas_seminario
 2. DerechosDeAutorAlquelohizo: https://github.com/codigowebmp/cv/blob/main/index.html" 
